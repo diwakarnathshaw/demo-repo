@@ -1,3 +1,5 @@
 # demo-repo
-some description...
+
+some description!
+
 Learning Git &amp; GitHub
